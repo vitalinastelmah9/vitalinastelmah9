@@ -1,0 +1,146 @@
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_chip.png|167741|1791983000.0869377000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_cta_plate.png|377125|1791982956.8466947000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_frame_reel.png|360369|1791982861.0794296000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_gift_case.png|361722|1791985349.0913640000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_gift_open.png|217622|1791985411.4628683000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_hall_badge.png|256406|1791985279.6908567000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_icon_back.png|231627|1791983153.0437543000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_icon_close.png|221075|1791983113.7462511000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_icon_gear.png|370775|1791983236.5619809000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_icon_pause.png|121949|1791983192.3337426000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_icon_token.png|518348|1791983076.9616224000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_mark_rosette.png|451999|1791983317.3372031000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_pip_shard.png|260188|1791983040.3914771000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_plate_panel.png|159670|1791982914.6571506000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_sym_lamp.png|181370|1791982660.9350364000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_sym_lyre.png|318231|1791982738.7264251000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_sym_mask.png|316202|1791982779.3831559000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_sym_scarab.png|160587|1791982699.6092779000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_sym_scroll.png|167972|1791982621.7380099000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_sym_seal.png|481985|1791982821.4620900000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_sym_shard.png|433550|1791982543.3366610000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Sprites/sprite_sym_vessel.png|307297|1791982582.8859803000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Textures/_BASE/Backgrounds/BG_game.png|517029|1791982489.2265827000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Textures/_BASE/Backgrounds/BG_loader.png|1021365|1791982429.8717384000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Textures/_BASE/Backgrounds/BG_main.png|933259|1791982459.3311461000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Art/Textures/game_icon.png|265020|1791985475.6334403000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Editor Default Resources/Firebase/fb_analytics.png|134|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Editor Default Resources/Firebase/fb_analytics_dark.png|136|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Editor Default Resources/Firebase/fb_auth.png|295|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Editor Default Resources/Firebase/fb_auth_dark.png|305|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Editor Default Resources/Firebase/fb_cloud_messaging.png|510|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Editor Default Resources/Firebase/fb_cloud_messaging_dark.png|521|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Editor Default Resources/Firebase/fb_config.png|253|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Editor Default Resources/Firebase/fb_config_dark.png|253|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Editor Default Resources/Firebase/fb_crashlytics.png|454|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Editor Default Resources/Firebase/fb_crashlytics_dark.png|471|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Editor Default Resources/Firebase/fb_database.png|248|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Editor Default Resources/Firebase/fb_database_dark.png|268|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Editor Default Resources/Firebase/fb_functions.png|449|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Editor Default Resources/Firebase/fb_functions_dark.png|464|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Editor Default Resources/Firebase/fb_storage.png|306|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Editor Default Resources/Firebase/fb_storage_dark.png|304|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Editor Default Resources/Firebase/firebase_lockup.png|2631|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Editor Default Resources/Firebase/firebase_lockup_dark.png|2718|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Editor/Generated/ObfuscateBuildHook.cs|29042|1791978522.1806252000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Editor/Generated/WhiteBuild.cs|11620|1791978522.1508799000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Firebase/Editor/Messaging/FirebaseMessagingActivityGenerator.cs|12251|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Firebase/FirebaseApp/Internal/AssemblyInfo.cs|285|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Firebase/FirebaseApp/Internal/FirebaseInterops.cs|17170|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Firebase/FirebaseApp/Internal/HttpHelpers.cs|3173|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Resources/UnityPlayerAccountSettings.asset|618|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scenes/Games/2_GameScene.unity|283804|1791981991.9925390000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scenes/Loader.unity|544072|1791985473.5485021000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/ControllerLoader.cs|1431|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/ControllerMenu.cs|1158|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/ControllerPrivacyPolicy.cs|7667|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/AlbumBoard.cs|3019|1791981724.7656683000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/AlbumRowView.cs|1773|1791979810.6250600000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/BadgeRocker.cs|1349|1791979523.3548229000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/DailyBonusBoard.cs|4317|1791981604.3286154000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/DailyGiftStore.cs|2284|1791979495.5387571000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/GalleryEconomy.cs|1947|1791980511.6125332000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/GalleryFormat.cs|1323|1791979449.0311864000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/GalleryPalette.cs|2724|1791987198.8045437000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/GalleryRng.cs|2326|1791979345.3718282000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/GallerySettingsStore.cs|1277|1791979502.8342883000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/GalleryText.cs|2887|1791979441.2434738000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/GameHudView.cs|5558|1791981942.3121377000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/GamePopPresenter.cs|7995|1791979702.0078909000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/HallCatalog.cs|1245|1791981928.7264861000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/HallChipView.cs|1776|1791979801.6201590000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/HallProgressStore.cs|5076|1791981596.0644244000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/HallSessionDirector.cs|17378|1791982143.6325801000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/LobbyDirector.cs|10003|1791981928.7234853000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/LobbyOverlayStack.cs|2124|1791979792.8999714000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/ReelColumnView.cs|6830|1791982143.5744434000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/ReelStripGenerator.cs|9391|1791981837.7546923000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/RelicCatalog.cs|2357|1791981928.7274853000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/SettingsBoard.cs|5280|1791980605.4313137000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/SpinResolver.cs|3399|1791980444.7524818000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/TmpContrastGuard.cs|5608|1791985443.5353503000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/TogglePillView.cs|1223|1791979817.8612515000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/TokenVault.cs|3741|1791980534.4985026000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/Generated/UiAppear.cs|1581|1791979516.0024358000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/PanelsFlow.cs|667|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Scripts/PrivacyBoltHelper.cs|9878|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Settings/Build Profiles/Android-mac.asset|1968|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Settings/DefaultVolumeProfile.asset|18777|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Settings/Renderer2D.asset|3629|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Settings/Scenes/URP2DSceneTemplate.unity|9881|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Settings/UniversalRP.asset|4816|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset|28615|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat|2973|1791981793.4388462000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset|9354|1791981793.4513758000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat|2887|1791981793.4613735000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset|237950|1791985442.5714701000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset|5539|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/TextMesh Pro/Resources/TMP Settings.asset|1852|1791900119.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Doc/Materials/logo.mat|939|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Doc/logo.png|59923|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Doc/xLua.png|28840|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Editor/ExampleConfig.cs|14637|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Editor/XLuaUnityDefaultConfig.cs|1348|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/CodeEmit.cs|86911|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/CopyByValue.cs|5777|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/DelegateBridge.cs|7819|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/Editor/Generator.cs|81118|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/Editor/Hotfix.cs|77010|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/Editor/LinkXmlGen/LinkXmlGen.cs|1170|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/Editor/Report.cs|1743|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/Editor/TemplateRef.cs|635|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/GenAttributes.cs|4577|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/GenericDelegateBridge.cs|8184|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/InternalGlobals.cs|3003|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/LuaBase.cs|4002|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/LuaDLL.cs|26769|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/LuaEnv.cs|25117|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/LuaException.cs|874|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/LuaFunction.cs|7928|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/LuaTable.cs|11972|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/MethodWarpsCache.cs|23177|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/ObjectCasters.cs|29142|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/ObjectPool.cs|4795|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/ObjectTranslator.cs|64943|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/ObjectTranslatorPool.cs|3418|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/RawObject.cs|2246|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/SignatureLoader.cs|2397|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/StaticLuaCallbacks.cs|47704|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/TemplateEngine/TemplateEngine.cs|9002|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/TypeExtensions.cs|4362|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Src/Utils.cs|49987|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Tutorial/CSharpCallLua/CSCallLua.cs|4468|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Tutorial/CSharpCallLua/CSCallLua.unity|8826|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Tutorial/LoadLuaScript/ByFile/ByFile.cs|1296|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Tutorial/LoadLuaScript/ByFile/ByFile.unity|8843|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Tutorial/LoadLuaScript/ByString/ByString.cs|1302|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Tutorial/LoadLuaScript/ByString/ByString.unity|8852|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Tutorial/LoadLuaScript/Loader/CustomLoader.cs|1665|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Tutorial/LoadLuaScript/Loader/CustomLoader.unity|8843|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Tutorial/LuaCallCSharp/LuaCallCs.cs|8692|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/XLua/Tutorial/LuaCallCSharp/LuaCallCs.unity|8860|1791900120.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Plugins/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json|282|1790785628.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Plugins/Plana.CLI.deps.json|46933|1790785629.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Plugins/Plana.CLI.runtimeconfig.json|340|1790785629.0000000000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Plugins/PlanaSeeded.runtimeconfig.json|340|1791986913.4164993000
+/c/AndroidWorkspace/projects/GoldenEmpireSlots/Assets/google-services.json|692|1791978505.4998873000

@@ -1,0 +1,73 @@
+{
+  "steps": [
+    {
+      "waitLoader": true,
+      "wait": 2.5,
+      "shot": "01_GalleryLobby"
+    },
+    {
+      "tapFrac": [
+        0.2665,
+        0.7391
+      ],
+      "label": "DAILY GIFT",
+      "wait": 2,
+      "shot": "02_DailyGiftCard"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.6522
+      ],
+      "label": "CLAIM",
+      "wait": 2,
+      "shot": "03_GiftClaimed"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.721
+      ],
+      "label": "TO ALBUM",
+      "wait": 2,
+      "shot": "04_Collection"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.7862
+      ],
+      "label": "PLAY THIS HALL",
+      "waitLoader": true,
+      "wait": 2.5,
+      "shot": "05_DisplayHall"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.8859
+      ],
+      "label": "SPIN",
+      "wait": 3.4,
+      "shot": "06_SpinResolved"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.8859
+      ],
+      "label": "SPIN",
+      "wait": 3.4,
+      "shot": "07_RelicFound"
+    },
+    {
+      "tapFrac": [
+        0.9026,
+        0.0725
+      ],
+      "label": "PAUSE",
+      "wait": 1.8,
+      "shot": "08_PausePop"
+    }
+  ]
+}

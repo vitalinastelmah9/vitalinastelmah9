@@ -1,0 +1,179 @@
+{
+  "assets": [
+    {
+      "name": "BG_loader",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_loader.png",
+      "prompt": "vertical 19.5:9 portrait mobile game background, a closed museum corridor at night seen end on, one tall violet arch far down it, a single brass lamp pooling warm light on the floor, deep shadow everywhere else, much darker and emptier than a lobby, the centre band kept very low contrast, no text, no UI elements, nothing busy under the centre of the frame, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "BG_main",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_main.png",
+      "prompt": "vertical 19.5:9 portrait mobile game background, a private museum atrium after closing, tall violet arches, brass handrails, soft mint light spilling from hidden coves, lit and welcoming, the centre band kept calm and low contrast for UI, no text, no UI elements, nothing busy under the centre of the frame, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "BG_game",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_game.png",
+      "prompt": "vertical 19.5:9 portrait mobile game background, a dim exhibition hall interior, a row of unlit pedestals receding into violet shadow, one warm brass spotlight pool low in the frame, very low contrast across the whole middle band for a UI overlay, no text, no UI elements, nothing busy under the centre of the frame, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_sym_shard",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_shard.png",
+      "prompt": "one single rough opalescent gem shard with violet and mint fire inside, front view, upright, vertically symmetric, facing the VIEWER, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_sym_vessel",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_vessel.png",
+      "prompt": "one single glazed ceramic vessel with a brass rim and two small handles, front view, upright, vertically symmetric, facing the VIEWER, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_sym_scroll",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_scroll.png",
+      "prompt": "one single rolled parchment scroll with an ornate brass clasp, front view, upright, vertically symmetric, facing the VIEWER, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_sym_lamp",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_lamp.png",
+      "prompt": "one single brass gallery lamp with a warm amber glass shade, front view, upright, vertically symmetric, facing the VIEWER, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_sym_scarab",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_scarab.png",
+      "prompt": "one single gilded scarab beetle figurine on a small stone plinth, front view, upright, vertically symmetric, facing the VIEWER, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_sym_lyre",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_lyre.png",
+      "prompt": "one single small brass lyre with mint-tinted strings, front view, upright, vertically symmetric, facing the VIEWER, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_sym_mask",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_mask.png",
+      "prompt": "one single ceremonial face mask inlaid with violet gemstone, front view, upright, vertically symmetric, facing the VIEWER, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_sym_seal",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_seal.png",
+      "prompt": "one single brass laurel-wreath seal medallion, front view, upright, vertically symmetric, facing the VIEWER, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_frame_reel",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_frame_reel.png",
+      "prompt": "an ornate rectangular brass display frame, BORDER ONLY, completely hollow and empty through the middle, violet enamel inlay along the rails, nothing at all in the centre, front view, upright, vertically symmetric, facing the VIEWER, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_plate_panel",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_plate_panel.png",
+      "prompt": "a plain rounded rectangular violet panel plate with a thin brass edge, flat even surface, nothing drawn on it, front view, upright, vertically symmetric, facing the VIEWER, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_cta_plate",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_cta_plate.png",
+      "prompt": "a rounded rectangular brass button plate with a warm gold gradient and a soft bevel, flat even surface, nothing drawn on it, front view, upright, vertically symmetric, facing the VIEWER, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_chip",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_chip.png",
+      "prompt": "a small rounded rectangular violet chip plate with a thin mint edge, flat even surface, nothing drawn on it, front view, upright, vertically symmetric, facing the VIEWER, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_pip_shard",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_pip_shard.png",
+      "prompt": "one single small faceted round gem pip, front view, upright, vertically symmetric, facing the VIEWER, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_icon_token",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_token.png",
+      "prompt": "one single round brass curator token with an engraved facet pattern and no lettering, front view, upright, vertically symmetric, facing the VIEWER, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_icon_close",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_close.png",
+      "prompt": "one single thick rounded brass cross mark, front view, upright, vertically symmetric, facing the VIEWER, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_icon_back",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_back.png",
+      "prompt": "one single thick rounded brass chevron arrow head, side view, pointing LEFT, facing LEFT, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_icon_pause",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_pause.png",
+      "prompt": "one single pair of thick rounded vertical brass bars side by side, front view, upright, vertically symmetric, facing the VIEWER, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_icon_gear",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_gear.png",
+      "prompt": "one single rounded brass gear wheel, front view, upright, vertically symmetric, facing the VIEWER, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_mark_rosette",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_mark_rosette.png",
+      "prompt": "one single abstract opal-cut hexagonal rosette emblem, brass rim with a violet gem core, an abstract symbol with no letters and no words of any kind, front view, upright, vertically symmetric, facing the VIEWER, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_hall_badge",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_hall_badge.png",
+      "prompt": "one single arched gallery doorway medallion with a violet gem keystone, front view, upright, vertically symmetric, facing the VIEWER, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_gift_case",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_gift_case.png",
+      "prompt": "one single closed brass relic case with a violet gem clasp, front view, upright, vertically symmetric, facing the VIEWER, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    },
+    {
+      "name": "sprite_gift_open",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_gift_open.png",
+      "prompt": "one single open brass relic case with mint light spilling out of it, front view, upright, vertically symmetric, facing the VIEWER, centred, isolated, one single object, stylized 3D render, soft glossy gem-like surfaces, chunky rounded forms, clean cel shading, deep violet and brass gold and mint museum palette, no text, no lettering"
+    }
+  ]
+}

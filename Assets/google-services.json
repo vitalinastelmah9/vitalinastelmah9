@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330567558282",
+    "project_id": "comopalsocialgallery",
+    "storage_bucket": "comopalsocialgallery.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330567558282:android:9d9edc52c1e6d80f56b973",
+        "android_client_info": {
+          "package_name": "com.opalsocial.gallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyeC8VGMXzNWTWtr7dismm96F2qXAiOM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
